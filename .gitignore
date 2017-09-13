@@ -1,0 +1,8 @@
+*~
+.ipynb_checkpoints/
+data/*
+!data/README.md
+intermediate/*
+!intermediate/README.md
+.idea/
+__pycache__/
