@@ -1,0 +1,1 @@
+Acknowledge: `car-segment_refinet` folder was taken from the [starter-kit](https://www.kaggle.com/c/carvana-image-masking-challenge/discussion/37208) by Heng CherKeng. Various notebooks were modified from that excellent starter-kit.
